@@ -1,7 +1,17 @@
-# Hi! I am a Developer.
+# HI! I AM A DEVELOPER.
 I write Front-End codes, prototype a Figma design, write backend codes, and even write some blogs.
 
+[![Website](https://img.shields.io/website?label=ChaudharySubash.com.np&style=for-the-badge&url=https%3A%2F%2Fchaudharysubash.com.np)](https://chaudharysubash.com.np)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
+## 💀 Reach My Portfolio => [Chaudhary Subash](https://chaudharysubash.com.np)
+
+## 📕 Latest Blog Posts Not to Miss
+- [Stagger animation with GSAP (GreenSock Animation Platform)](https://www.chaudharysubash.com.np/blog/gsap-stagger-animation)
+- [Application error : a client-side exception has occurred (see the browser console for more information)](https://www.chaudharysubash.com.np/blog/application-error-client-side-exception)
+- [Reveal image on scroll in HTML, CSS, and JS using GSAP and ScrollTrigger.](https://www.chaudharysubash.com.np/blog/reveal-imgonscroll)
+
+➡️ [Interesting blogs](https://www.chaudharysubash.com.np/blog)
 
 ## I am more than a developer.
 Being developer is not only my skill, I also write blogs on the different topics related to programming. You can read it in `blogs` page or [here](https://chaudharysubash.com.np/blog).
@@ -15,14 +25,12 @@ Blender couldn't run smoothly on complex scenes on low-end PCs. So I dumped Blen
 
 I was very pleased with the `React` after writing some react codes. Following my introduction to React, I began studying `NextJS` (a React framework) for Static `Site Generation (SSG)`, `Server Side Rendering (SSR)`, and `Incremental Static Regeneration (ISR)`.
 
-# Reach my site
-at: [Chaudhary Subash](https://chaudharysubash.com.np)
 
 ## A short intro
 - 👋 Hi, I’m @Suubash
 - 👀 I’m interested in learning advanced `NextJS` concepts
 - 🌱 I’m currently learning `NextJS`, `Flutter`, and `Android development`
-- 📫 Reach me on [Gmail](imsuubash@gmail.com)
+- 📫 Reach me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
 
 <!---
 Suubash/Suubash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
