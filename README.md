@@ -30,7 +30,7 @@ I was very pleased with the `React` after writing some react codes. Following my
 - 👋 Hi, I’m @Suubash
 - 👀 I’m interested in learning advanced `NextJS` concepts
 - 🌱 I’m currently learning `NextJS`, `Flutter`, and `Android development`
-- 📫 Reach me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
+- 📫 Mail Me on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
 
 <!---
 Suubash/Suubash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
