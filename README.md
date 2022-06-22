@@ -8,6 +8,10 @@ _A Front-End Developer_
 
 [![Website](https://img.shields.io/website?label=View-Portfolio&style=for-the-badge&url=https%3A%2F%2Fchaudharysubash.com.np)](https://chaudharysubash.com.np)
 
+### My Github Stat
+
+<a href="http://www.github.com/Suubash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suubash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ### Reach my new portfolio [here](https://chaudharysubash.com.np)
@@ -38,6 +42,10 @@ I am currently trying to develop a blog writing skills. You can check some of th
 - 👀 I’m interested in learning advanced `NextJS` & `ReactJS` concepts
 - 🌱 I’m currently learning `NextJS`, `ReactJS`, and `ExpressJS`
 - 📫 Drop me message on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
+
+### Let's understand Graph
+
+<a href="http://www.github.com/Suubash"><img src="https://activity-graph.herokuapp.com/graph?username=Suubash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!---
 Suubash/Suubash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
