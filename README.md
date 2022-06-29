@@ -12,13 +12,11 @@ _A Front-End Developer_
 
 <a href="http://www.github.com/Suubash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suubash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
 ### Reach my new portfolio [here](https://chaudharysubash.com.np)
 
 Also visit my old site [here](https://chaudharysubash.vercel.app)
 
-## Trying to write the following blogs!
+## Some blogs by me!
 
 - [Stagger animation with GSAP (GreenSock Animation Platform)](https://www.chaudharysubash.com.np/blog/gsap-stagger-animation)
 - [Application error : a client-side exception has occurred (see the browser console for more information)](https://www.chaudharysubash.com.np/blog/application-error-client-side-exception)
@@ -29,7 +27,7 @@ Also visit my old site [here](https://chaudharysubash.vercel.app)
 ## I am more than a </developer\>.
 
 - Figma Design
-- UI/UX `(not a pro)`
+- UI/UX `(Intermediate)`
 - Blender `(Noob)`
 - Blogger `(Noob)`
 - Markdown
@@ -43,11 +41,6 @@ I am currently trying to develop a blog writing skills. You can check some of th
 - 🌱 I’m currently learning `NextJS`, `ReactJS`, and `ExpressJS`
 - 📫 Drop me message on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
 
-### Let's understand Graph
+### Github Commit Graph
 
 <a href="http://www.github.com/Suubash"><img src="https://activity-graph.herokuapp.com/graph?username=Suubash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<!---
-Suubash/Suubash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
