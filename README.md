@@ -38,6 +38,7 @@ I am currently trying to develop a blog writing skills. You can check some of th
 
 - 👋 Hi, I’m @Suubash
 - 👀 I’m interested in learning advanced `NextJS` & `ReactJS` concepts
+- 👍 Now learning `TypeScript`
 - 🌱 I’m currently learning `NextJS`, `ReactJS`, and `ExpressJS`
 - 📫 Drop me message on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
 
