@@ -41,7 +41,3 @@ I am currently trying to develop a blog writing skills. You can check some of th
 - 👍 Now learning `TypeScript`
 - 🌱 I’m currently learning `NextJS`, `ReactJS`, and `ExpressJS`
 - 📫 Drop me message on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
-
-### Github Commit Graph
-
-<a href="http://www.github.com/Suubash"><img src="https://activity-graph.herokuapp.com/graph?username=Suubash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
