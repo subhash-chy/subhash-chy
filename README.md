@@ -35,6 +35,14 @@ Also visit my old site [here](https://chaudharysubash.vercel.app)
 
 I am currently trying to develop a blog writing skills. You can check some of the blogs and please provide a feedback on how to improve my blog writing skills. You can read it in `blogs` page in my site or [here](https://chaudharysubash.com.np/blog).
 
+<br />
+<details>
+<summary>Development activities</summary>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+<br/>
+
 ## A short intro
 
 - 👋 Hi, I’m @Suubash
