@@ -1,14 +1,46 @@
+<style type="text/css">
+  .content{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    gap: 10px;
+  }
+
+   .gif-image {
+     width:300px;
+     height:300px;
+   } 
+@media screen and (min-width:670px) {
+  .content{
+    align-items: center;
+    flex-direction: row;
+  }      
+}    
+</style>
+
 # Subash Chaudhary
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif" width="200" height="200" />
-_A Front-End Developer_
+### _A Front-End Developer_
+
+ <div class="content">
+
+<div>
 
 - ReactJS
 - NextJS
 - TailwindCSS
 - SvelteKit (currently learning)
+- Figma Design
+- UI/UX `(Intermediate)`
 
 [![Website](https://img.shields.io/website?label=View-Portfolio&style=for-the-badge&url=https%3A%2F%2Fchaudharysubash.com.np)](https://chaudharysubash.com.np)
+
+</div>
+
+ <img align="right" class="gif-image" alt="GIF" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif"/>
+</div>
+
+<br/><br/>
 
 ### My Github Stat
 
@@ -28,8 +60,6 @@ Also visit my old site [here](https://chaudharysubash.vercel.app)
 
 ## I am more than a </developer\>.
 
-- Figma Design
-- UI/UX `(Intermediate)`
 - Blender `(Noob)`
 - Blogger `(Noob)`
 - Markdown
