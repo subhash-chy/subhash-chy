@@ -1,4 +1,4 @@
-<style type="text/css">
+<!-- <style type="text/css">
   .content{
     display: flex;
     flex-direction: column-reverse;
@@ -9,20 +9,22 @@
    .gif-image {
      width:300px;
      height:300px;
-   } 
+   }
 @media screen and (min-width:670px) {
   .content{
     align-items: center;
     flex-direction: row;
-  }      
-}    
-</style>
+  }
+}
+</style> -->
 
 # Subash Chaudhary
 
 ### _A Front-End Developer_
 
  <div class="content">
+
+  <img width=300 height=300 class="gif-image" alt="GIF" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif"/>
 
 <div>
 
@@ -37,7 +39,6 @@
 
 </div>
 
- <img align="right" class="gif-image" alt="GIF" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif"/>
 </div>
 
 <br/><br/>
