@@ -5,6 +5,7 @@ _A Front-End Developer_
 - ReactJS
 - NextJS
 - TailwindCSS
+- SvelteKit (currently learning)
 
 [![Website](https://img.shields.io/website?label=View-Portfolio&style=for-the-badge&url=https%3A%2F%2Fchaudharysubash.com.np)](https://chaudharysubash.com.np)
 
@@ -39,5 +40,5 @@ I am currently trying to develop a blog writing skills. You can check some of th
 - 👋 Hi, I’m @Suubash
 - 👀 I’m interested in learning advanced `NextJS` & `ReactJS` concepts
 - 👍 Now learning `TypeScript`
-- 🌱 I’m currently learning `NextJS`, `ReactJS`, and `ExpressJS`
+- 🌱 I’m currently learning `NextJS`, `ReactJS`, `SvelteKit` and `ExpressJS`
 - 📫 Drop me message on [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnlTWkjbZDktkjpxPdBDDxjGxgwMrcVjbGLSWRdXrjVpQpMTKQvGCPbPCZSxCndcbsNWM)
