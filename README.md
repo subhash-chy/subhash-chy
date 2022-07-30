@@ -1,5 +1,6 @@
 # Subash Chaudhary
 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Suubash/Suubash/main/animation.gif" width="200" height="200" />
 _A Front-End Developer_
 
 - ReactJS
