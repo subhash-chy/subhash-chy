@@ -73,8 +73,8 @@ I am currently trying to develop a blog writing skills. You can check some of th
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 18 mins  ███████████████████████▒░   92.85 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   9 hrs 44 mins   ███████████████████████▓░   94.31 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
