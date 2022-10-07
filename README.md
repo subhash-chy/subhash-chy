@@ -73,9 +73,11 @@ I am currently trying to develop a blog writing skills. You can check some of th
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 51 mins    █████████████████████████   99.50 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   3 hrs 16 mins   █████████████░░░░░░░░░░░░   52.54 %
+Python       1 hr 51 mins    ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+Bash         56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
