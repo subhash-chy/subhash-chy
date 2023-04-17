@@ -73,7 +73,8 @@ I am currently trying to develop a blog writing skills. You can check some of th
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   4 mins          ████████████████████████▒   96.79 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
