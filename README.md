@@ -72,7 +72,7 @@ I am currently trying to develop a blog writing skills. You can check some of th
 <summary>Development activities</summary>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
