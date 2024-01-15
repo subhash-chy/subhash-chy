@@ -73,11 +73,11 @@ I am currently trying to develop a blog writing skills. You can check some of th
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 20 mins   ██████████████████████░░░   87.59 %
-TSConfig     50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   9 hrs 5 mins    ██████████████████████▒░░   89.49 %
+TSConfig     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
