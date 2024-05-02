@@ -31,9 +31,8 @@
 - ReactJS
 - NextJS
 - TailwindCSS
-- SvelteKit (currently learning)
 - Figma Design
-- UI/UX `(Intermediate)`
+- UI/UX `(Beginner)`
 
 [![Website](https://img.shields.io/website?label=View-Portfolio&style=for-the-badge&url=https%3A%2F%2Fchaudharysubash.com.np)](https://chaudharysubash.com.np)
 
