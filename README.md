@@ -18,7 +18,7 @@
 }
 </style> -->
 
-# Subash Chaudhary
+# Subhash Chaudhary
 
 ### _A Front-End Developer_
 
