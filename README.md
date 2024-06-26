@@ -44,7 +44,7 @@
 
 ### My Github Stat
 
-<a href="http://www.github.com/Suubash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suubash&stroke=ffffff&background=0c1514&ring=1F51AA&fire=1F51AA&currStreakNum=ffffff&currStreakLabel=1F51CC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/subhash-chy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhash-chy&stroke=ffffff&background=0c1514&ring=1F51AA&fire=1F51AA&currStreakNum=ffffff&currStreakLabel=1F51CC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Reach my new portfolio [here](https://chaudharysubash.com.np)
 
