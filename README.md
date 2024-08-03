@@ -83,7 +83,7 @@ JSON         0 secs          ▓░░░░░░░░░░░░░░░░
 
 ## A short intro
 
-- 👋 Hi, I’m @Suubash
+- 👋 Hi, I’m @subhash-chy
 - 👀 I’m interested in learning advanced `NextJS` & `ReactJS` concepts
 - 👍 Now learning `TypeScript`
 - 🌱 I’m currently learning `NextJS`, `ReactJS`, `SvelteKit` and `ExpressJS`
